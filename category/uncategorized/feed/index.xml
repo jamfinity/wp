@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; WP Tutorial &#8211; Jamfinity</title>
+	<atom:link href="https://jamfinity.github.io/wp/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jamfinity.github.io/wp</link>
+	<description>Create your own Website!</description>
+	<lastBuildDate>Sat, 08 May 2021 10:40:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+
+<image>
+	<url>https://jamfinity.github.io/wp/wp-content/uploads/2021/05/onlinelogomaker-050821-0401-4712-500-1-150x150.jpg</url>
+	<title>Uncategorized &#8211; WP Tutorial &#8211; Jamfinity</title>
+	<link>https://jamfinity.github.io/wp</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Getting Started with the Figma WordPress Design Library</title>
+		<link>https://jamfinity.github.io/wp/getting-started-with-the-figma-wordpress-design-library-2/</link>
+					<comments>https://jamfinity.github.io/wp/getting-started-with-the-figma-wordpress-design-library-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 08 May 2021 10:38:20 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://jamfinity.github.io/wp/?p=2377</guid>
+
+					<description><![CDATA[As the name suggests, the WordPress Design Library is a library of WordPress design assets, enabling anyone to quickly create design prototypes for WordPress UI in Figma. These tools are useful for designers when creating new UI and for anyone looking to contribute ideas, enhancements, or even solutions to bug reports. Sometimes pictures really do &#8230;<p class="read-more"> <a class="" href="https://jamfinity.github.io/wp/getting-started-with-the-figma-wordpress-design-library-2/"> <span class="screen-reader-text">Getting Started with the Figma WordPress Design Library</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2377" class="elementor elementor-2377" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-52c9d29 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="52c9d29" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6a5d495" data-id="6a5d495" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2c70c62 elementor-widget elementor-widget-text-editor" data-id="2c70c62" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<p>As the name suggests, the WordPress Design Library is a library of WordPress design assets, enabling anyone to quickly create design prototypes for WordPress UI in Figma.</p><p>These tools are useful for designers when creating new UI and for anyone looking to contribute ideas, enhancements, or even solutions to bug reports. Sometimes pictures really do speak a thousand words.</p><p>In this post, we’ll talk about some key features of Figma before diving into a practical example that demonstrates some of the WordPress Design Library utilities.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-a41ab5c elementor-widget elementor-widget-heading" data-id="a41ab5c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">What Is Figma?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-14a8053 elementor-widget elementor-widget-image" data-id="14a8053" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1024" height="1024" src="https://jamfinity.github.io/wp/wp-content/uploads/2021/05/WordPress_blue_logo.svg.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://jamfinity.github.io/wp/wp-content/uploads/2021/05/WordPress_blue_logo.svg.png 1024w, https://jamfinity.github.io/wp/wp-content/uploads/2021/05/WordPress_blue_logo.svg-300x300.png 300w, https://jamfinity.github.io/wp/wp-content/uploads/2021/05/WordPress_blue_logo.svg-150x150.png 150w, https://jamfinity.github.io/wp/wp-content/uploads/2021/05/WordPress_blue_logo.svg-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-8c84ee5 elementor-widget elementor-widget-text-editor" data-id="8c84ee5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<p><a href="https://www.figma.com/" rel="nofollow">Figma</a> is a collaborative design tool that members of the WordPress project’s design team have<a href="https://make.wordpress.org/design/2018/11/19/figma-for-wordpress/"> been using</a> for several years to work on and share design concepts. It offers a variety of handy features such as: in-browser access, rich prototyping tools, component libraries, code inspectors, live embeds, inline commenting, plugins, and much much more.</p><p>Perhaps best of all, it is totally free to sign up and start playing around. If you join the WordPress.org Figma organization (instructions below), you’ll gain access to the WordPress Design Library enabling you to design WordPress UI in no time.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://jamfinity.github.io/wp/getting-started-with-the-figma-wordpress-design-library-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Getting Started with the Figma WordPress Design Library</title>
+		<link>https://jamfinity.github.io/wp/getting-started-with-the-figma-wordpress-design-library/</link>
+					<comments>https://jamfinity.github.io/wp/getting-started-with-the-figma-wordpress-design-library/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 08 May 2021 10:37:49 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[plugin]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">https://jamfinity.github.io/wp/?p=2374</guid>
+
+					<description><![CDATA[Introduction As the name suggests, the WordPress Design Library is a library of WordPress design assets, enabling anyone to quickly create design prototypes for WordPress UI in Figma. These tools are useful for designers when creating new UI and for anyone looking to contribute ideas, enhancements, or even solutions to bug reports. Sometimes pictures really &#8230;<p class="read-more"> <a class="" href="https://jamfinity.github.io/wp/getting-started-with-the-figma-wordpress-design-library/"> <span class="screen-reader-text">Getting Started with the Figma WordPress Design Library</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h2>Introduction</h2>
+
+
+
+<p>As the name suggests, the WordPress Design Library is a library of WordPress design assets, enabling anyone to quickly create design prototypes for WordPress UI in Figma.</p>
+
+
+
+<p>These tools are useful for designers when creating new UI and for anyone looking to contribute ideas, enhancements, or even solutions to bug reports. Sometimes pictures really do speak a thousand words.</p>
+
+
+
+<p class="has-text-align-left">In this post, we’ll talk about some key features of Figma before diving into a practical example that demonstrates some of the WordPress Design Library utilities.</p>
+
+
+
+<h2><strong>What Is Figma?</strong></h2>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://jamfinity.github.io/wp/wp-content/uploads/2021/05/WordPress_blue_logo.svg.png" alt="" class="wp-image-2375" width="176" height="176" srcset="https://jamfinity.github.io/wp/wp-content/uploads/2021/05/WordPress_blue_logo.svg.png 1024w, https://jamfinity.github.io/wp/wp-content/uploads/2021/05/WordPress_blue_logo.svg-300x300.png 300w, https://jamfinity.github.io/wp/wp-content/uploads/2021/05/WordPress_blue_logo.svg-150x150.png 150w, https://jamfinity.github.io/wp/wp-content/uploads/2021/05/WordPress_blue_logo.svg-768x768.png 768w" sizes="(max-width: 176px) 100vw, 176px" /></figure>
+
+
+
+<p><a href="https://www.figma.com/">Figma</a>&nbsp;is a collaborative design tool that members of the WordPress project’s design team have<a href="https://make.wordpress.org/design/2018/11/19/figma-for-wordpress/">&nbsp;been using</a>&nbsp;for several years to work on and share design concepts. It offers a variety of handy features such as: in-browser access, rich prototyping tools, component libraries, code inspectors, live embeds, inline commenting, plugins, and much much more.</p>
+
+
+
+<p>Perhaps best of all, it is totally free to sign up and start playing around. If you join the WordPress.org Figma organization (instructions below), you’ll gain access to the WordPress Design Library enabling you to design WordPress UI in no time.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://jamfinity.github.io/wp/getting-started-with-the-figma-wordpress-design-library/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
